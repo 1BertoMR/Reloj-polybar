@@ -1,6 +1,6 @@
 # Reloj polybar
 Script bash para polybar de relojes mundiales
-# Módulo para config.ini de polybar
+## Módulo para config.ini de polybar
 ```
 [module/relojes]
 type = custom/script
@@ -11,5 +11,5 @@ tail = true
 format-foreground = #cdd6f4
 format-background = #1e1e2e
 ```
-# vista
+## vista
 ![vista](output.gif)
