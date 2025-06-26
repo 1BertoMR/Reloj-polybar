@@ -1,7 +1,8 @@
 # Reloj polybar
 Script bash para polybar de relojes mundiales
 # Módulo para config.ini de polybar
-```[module/relojes]
+```
+[module/relojes]
 type = custom/script
 exec = /ruta/relojes.sh
 format-prefix = "󱉊   "
