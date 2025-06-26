@@ -1,2 +1,5 @@
-# Reloj-polybar
-relojes mundiales para polybar
+# Reloj polybar
+Script bash para polybar de relojes mundiales
+
+# vista
+![vista](output.gif)
